@@ -21,6 +21,8 @@
 
     <color name="background_social_updates">#ffeeeeee</color>
 
+    <color name="contact_list_name_text_color">#ff000000</color>
+
     <!-- TODO: remove these colors once we delete the group code (b/16522929) -->
     <color name="action_bar_background">#0288d1</color>
     <color name="action_bar_background_highlight">#cecece</color>
