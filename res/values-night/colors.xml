@@ -33,7 +33,9 @@
 
     <color name="list_item_pinned_header_color">@color/background_primary</color>
     <color name="contact_list_name_text_color">#ffffffff</color>
+    <color name="contact_list_empty_tiles_text_color">#ffffffff</color>
 
+    <color name="editor_account_header_background_color">@color/darkkat_blue_grey</color>
     <color name="editor_icon_color">#b3ffffff</color>
     <color name="editor_disabled_text_color">#80ffffff</color>
 

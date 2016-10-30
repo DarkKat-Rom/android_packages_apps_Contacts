@@ -22,6 +22,7 @@
     <color name="background_social_updates">#ffeeeeee</color>
 
     <color name="contact_list_name_text_color">#ff000000</color>
+    <color name="contact_list_empty_tiles_text_color">#ff000000</color>
 
     <!-- TODO: remove these colors once we delete the group code (b/16522929) -->
     <color name="action_bar_background">#0288d1</color>
@@ -60,6 +61,8 @@
 
     <!-- Background color of pinned header items. -->
     <color name="list_item_pinned_header_color">@color/background_primary</color>
+
+    <color name="editor_account_header_background_color">#ffeeeeee</color>
 
     <!-- Color of the mime-type icons inside the editor. 50% black. -->
     <color name="editor_icon_color">#7f7f7f</color>

@@ -35,7 +35,7 @@
         android:layout_gravity="center_vertical"
         android:duplicateParentState="true"
         android:textSize="14sp"
-        style="@android:style/Widget.Holo.ActionBar.TabText"/>
+        style="@android:style/Widget.Material.ActionBar.TabText"/>
 
     <ImageView
         android:id="@android:id/icon"
