@@ -68,8 +68,8 @@
         <item name="android:icon">@android:color/transparent</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
         <item name="android:windowBackground">@color/background_primary</item>
-        <item name="android:colorPrimaryDark">@color/primary_color_dark</item>
-        <item name="android:colorPrimary">@color/primary_color</item>
+        <item name="android:colorPrimaryDark">@color/actionbar_background_color_dark</item>
+        <item name="android:colorPrimary">@color/actionbar_background_color</item>
         <item name="android:colorAccent">@color/primary_color</item>
         <item name="android:alertDialogTheme">@style/ContactsAlertDialogTheme</item>
         <item name="list_item_height">?android:attr/listPreferredItemHeight</item>

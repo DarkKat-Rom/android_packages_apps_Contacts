@@ -492,7 +492,7 @@ public class ActionBarAdapter implements OnCloseListener {
             mActivity.getWindow().setStatusBarColor(cabStatusBarColor);
         } else {
             final int normalStatusBarColor = ContextCompat.getColor(
-                    mActivity, R.color.primary_color_dark);
+                    mActivity, R.color.actionbar_background_color_dark);
             mActivity.getWindow().setStatusBarColor(normalStatusBarColor);
         }
     }
